@@ -8,7 +8,7 @@ public class Event
 	public Event()
 	{
 		eventName = "New Event";
-		description = "Enter description here...";
+		description = "";
 		eventDate = Calendar.getInstance();
 	}
 	
