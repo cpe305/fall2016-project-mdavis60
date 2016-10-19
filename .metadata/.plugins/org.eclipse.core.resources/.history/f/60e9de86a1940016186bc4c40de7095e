@@ -1,0 +1,24 @@
+import java.util.Calendar;
+
+public class Event 
+{
+	private Calendar eventDate;
+	private String eventName, description;
+	
+	public Calendar getEventDate()
+	{
+		return eventDate;
+	}
+	public void setEventDate(Calendar date)
+	{
+		eventDate = date;
+	}
+	public String getEventName()
+	{
+		return eventName;
+	}
+	public String getDescription()
+	{
+		return description;
+	}
+}

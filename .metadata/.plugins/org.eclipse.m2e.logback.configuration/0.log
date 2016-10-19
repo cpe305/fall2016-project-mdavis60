@@ -1,0 +1,11 @@
+2016-10-17 12:46:32,348 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\test\pom.xml
+2016-10-17 12:46:36,564 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tesr:test:0.0.1-SNAPSHOT @ C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\test\pom.xml.
+2016-10-17 12:46:38,506 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tesr:test:0.0.1-SNAPSHOT @ C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\test\pom.xml.
+2016-10-17 12:46:38,513 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/main/java
+2016-10-17 12:46:38,520 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/test/java
+2016-10-17 12:46:38,610 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
+2016-10-17 12:46:39,310 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tesr:test:0.0.1-SNAPSHOT @ C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\test\pom.xml.
+2016-10-17 12:46:39,406 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 12:46:39,406 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\test\src\main\resources
+2016-10-17 12:46:39,407 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-10-17 12:46:39,408 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\test\src\test\resources
