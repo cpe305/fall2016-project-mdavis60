@@ -101,12 +101,12 @@ public class Event
 	}
 	public String getDate()
 	{
-		return getDayOfWeek() + ", " + getMonth();
+		return getDayOfWeek() + ", " + eventDate.get(Calendar.MONTH)
 	}
 	public String toString()
 	{
 		String out = getEventName() + "\n";
-		out += "\tDate: " + getEventDate().get(Calendar.DAY_OF_WEEK);
+		out += "\tDate: " + getEventDate().get(Calendar.DAY_OF_WEEK)
 		
 		return out;
 	}

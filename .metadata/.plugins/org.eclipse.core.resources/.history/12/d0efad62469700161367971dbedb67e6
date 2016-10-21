@@ -69,44 +69,16 @@ public class Event
 	}
 	public String getMonth()
 	{
-		switch(eventDate.get(Calendar.MONTH))
-		{
-		case 0:
-			return "January";
-		case 1:
-			return "February";
-		case 2:
-			return "March";
-		case 3:
-			return "April";
-		case 4:
-			return "May";
-		case 5:
-			return "June";
-		case 6:
-			return "July";
-		case 7:
-			return "August";
-		case 8:
-			return "September";
-		case 9:
-			return "October";
-		case 10:
-			return "November";
-		case 11:
-			return "December";
-		default:
-			return "error";
-		}
+		
 	}
 	public String getDate()
 	{
-		return getDayOfWeek() + ", " + getMonth();
+		return getDayOfWeek() + ", " + eventDate.get(Calendar.MONTH)
 	}
 	public String toString()
 	{
 		String out = getEventName() + "\n";
-		out += "\tDate: " + getEventDate().get(Calendar.DAY_OF_WEEK);
+		out += "\tDate: " + getEventDate().get(Calendar.DAY_OF_WEEK)
 		
 		return out;
 	}
