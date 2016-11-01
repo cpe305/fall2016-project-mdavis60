@@ -1,0 +1,14 @@
+import java.util.Calendar;
+
+public class DateTimeCreator {
+	Calendar theCalendar;
+	public DateTimeCreator()
+	{
+		theCalendar = Calendar.getInstance();
+	}
+	public DateTime createNewDateTime(int day, int month, int year, int hour, int minutes)
+	{
+		theCalendar.set(year, month, day, hour, minutes, 0);
+		return new DateTime(theCalendar.getTime());
+	}
+}

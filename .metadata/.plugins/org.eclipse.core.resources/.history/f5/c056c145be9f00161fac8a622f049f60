@@ -1,0 +1,11 @@
+
+public abstract class Activity {
+	private String activityName;
+	private String description;
+	
+	public void getActivityName()
+	{
+		return activityName;
+	}
+
+}

@@ -1,0 +1,16 @@
+public class DateTime {
+	private int day;
+	private int month;
+	private int year;
+	private int hour24;
+	private int minutes;
+	private String dayOfWeek;
+
+	public DateTime(int day, int month, int year, int hour24, int minutes) {
+		this.day = day;
+		this.month = month;
+		this.year = year;
+		this.hour24 = hour24;
+		this.minutes = minutes;
+	}
+}

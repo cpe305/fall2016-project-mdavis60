@@ -1,0 +1,30 @@
+import java.util.Calendar;
+
+public class DateTimeCreator {
+	Calendar theCalendar;
+	public DateTimeCreator()
+	{
+		theCalendar = Calendar.getInstance();
+	}
+	public DateTime createNewDateTime(int day, int month, int year, int hour, int minutes)
+	{
+		theCalendar.set(year, month, day, hour, minutes);
+		return new DateTime(theCalendar.getTime());
+	}
+	public String getDateString(DateTime aDate)
+	{
+		String out = "";
+		theCalendar.setTime(aDate.getTheDate());
+		
+		out += theCalendar.
+		
+	}
+	public String getDayOfWeek(DateTime aDate)
+	{
+		
+	}
+	private void setCalendar(DateTime aDate)
+	{
+		theCalendar.setTime(aDate);
+	}
+}
