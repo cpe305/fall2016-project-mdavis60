@@ -1,11 +1,82 @@
-2016-10-17 12:46:32,348 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\test\pom.xml
-2016-10-17 12:46:36,564 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tesr:test:0.0.1-SNAPSHOT @ C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\test\pom.xml.
-2016-10-17 12:46:38,506 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tesr:test:0.0.1-SNAPSHOT @ C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\test\pom.xml.
-2016-10-17 12:46:38,513 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/main/java
-2016-10-17 12:46:38,520 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/test/java
-2016-10-17 12:46:38,610 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 6 sec
-2016-10-17 12:46:39,310 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: tesr:test:0.0.1-SNAPSHOT @ C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\test\pom.xml.
-2016-10-17 12:46:39,406 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-10-17 12:46:39,406 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\test\src\main\resources
-2016-10-17 12:46:39,407 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-10-17 12:46:39,408 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\test\src\test\resources
+2016-11-02 11:56:18,355 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\pom.xml
+2016-11-02 11:56:19,698 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cpe305.mdavis60:VirtualAssistant:0.0.1-SNAPSHOT @ C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\pom.xml.
+2016-11-02 11:56:20,402 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /VirtualAssistant/src/main/java
+2016-11-02 11:56:20,408 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /VirtualAssistant/src/test/java
+2016-11-02 11:56:20,880 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2016-11-02 11:56:21,169 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cpe305.mdavis60:VirtualAssistant:0.0.1-SNAPSHOT @ C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\pom.xml.
+2016-11-02 11:56:21,919 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 11:56:21,920 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 11:56:21,922 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 11:56:21,922 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 11:56:34,839 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-11-02 11:56:38,633 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant
+2016-11-02 11:56:38,634 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-11-02 11:58:36,719 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant
+2016-11-02 11:58:36,719 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-11-02 11:58:38,322 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 11:58:38,326 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 11:58:38,327 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 11:58:38,327 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 11:58:45,760 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-11-02 11:58:53,764 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant
+2016-11-02 11:58:53,769 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean build -X
+2016-11-02 12:12:01,362 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-11-02 12:12:06,091 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant
+2016-11-02 12:12:06,093 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean build
+2016-11-02 12:13:39,996 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:13:39,997 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 12:13:39,999 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:13:39,999 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 12:13:45,332 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant
+2016-11-02 12:13:45,332 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean build
+2016-11-02 12:14:13,371 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant
+2016-11-02 12:14:13,371 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-11-02 12:14:22,946 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:14:22,946 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 12:14:22,949 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:14:22,949 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 12:14:31,826 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant
+2016-11-02 12:14:31,831 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean build -X
+2016-11-02 12:15:01,764 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-11-02 12:15:05,379 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant
+2016-11-02 12:15:05,379 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-11-02 12:15:17,155 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-11-02 12:15:27,396 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:15:27,413 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 12:15:27,430 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:15:27,440 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 12:18:31,863 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:18:31,863 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 12:18:31,865 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:18:31,873 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 12:19:20,113 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:19:20,118 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 12:19:20,125 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:19:20,130 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 12:20:54,073 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:20:54,074 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 12:20:54,075 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:20:54,082 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 12:21:32,221 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:21:32,226 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 12:21:32,232 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:21:32,237 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 12:21:43,511 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:21:43,512 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 12:21:43,514 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:21:43,519 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 12:21:49,756 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:21:49,760 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 12:21:49,766 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:21:49,769 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 12:21:54,757 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:21:54,757 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 12:21:54,759 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:21:54,767 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 12:22:01,523 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:22:01,528 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\main\resources
+2016-11-02 12:22:01,532 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-02 12:22:01,536 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant\src\test\resources
+2016-11-02 12:22:31,774 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-11-02 12:22:58,213 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\mdavis60_VirtualAssitant_Maven\VirtualAssistant
+2016-11-02 12:22:58,214 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify sonar:sonar

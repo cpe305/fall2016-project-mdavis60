@@ -41,13 +41,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="tesr.test"/>
+			<item value="cpe305.mdavis60.VirtualAssistant"/>
 		</list>
 		<list key="groupId">
-			<item value="tesr"/>
+			<item value="cpe305.mdavis60"/>
 		</list>
 		<list key="artifactId">
-			<item value="test"/>
+			<item value="VirtualAssistant"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
