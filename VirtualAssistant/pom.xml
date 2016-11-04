@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>cpe305.mdavis60</groupId>
-  <artifactId>VirtualAssistant</artifactId>
+  <artifactId>virtualassistant</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
