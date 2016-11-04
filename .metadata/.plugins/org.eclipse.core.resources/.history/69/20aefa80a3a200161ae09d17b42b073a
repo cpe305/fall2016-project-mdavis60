@@ -1,0 +1,12 @@
+package cpe305.mdavis60.controller;
+
+public class ScheduleViewMaker {
+  public static ScheduleViewer createScheduleView(String type)
+  {
+    switch(type)
+    {
+      
+    }
+  }
+
+}

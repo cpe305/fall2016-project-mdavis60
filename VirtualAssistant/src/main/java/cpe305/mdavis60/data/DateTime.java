@@ -112,4 +112,9 @@ public class DateTime {
   public String toString() {
     return getLongDate() + ", " + getTime12();
   }
+  
+  public boolean equals(DateTime other)
+  {
+    return toString().equals(other.toString());
+  }
 }

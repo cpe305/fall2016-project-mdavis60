@@ -1,0 +1,17 @@
+package cpe305.mdavis60.controller;
+
+import java.util.ArrayList;
+
+public class WeekViewer {
+  ArrayList<DayViewer> weekView;
+
+  public WeekViewer() {
+    weekView = new ArrayList<DayViewer>();
+  }
+
+  public void printView() {
+    for (DayViewer day : weekView) {
+      day.printView();
+    }
+  }
+}

@@ -1,0 +1,27 @@
+package cpe305.mdavis60.controller;
+
+import java.util.Scanner;
+
+import cpe305.mdavis60.data.DateTime;
+
+public class ScheduleViewMaker {
+  public static ScheduleViewer createScheduleView(String type, Scanner in) {
+    if (type.toLowerCase().equals("day")) {
+      return new DayViewer(getDay(in));
+      else
+        return new WeekViewer();
+    }
+  }
+
+  private static DateTime getDay(Scanner in) {
+    int day, month, year;
+    System.out.println("Enter day...");
+    day = in.nextInt();
+    System.out.println("Enter month...");
+    month = in.nextInt();
+    System.out.println("Enter year...");
+    year = in.nextInt();
+    return new DateTime(day, month, year, 0,0);
+  }
+
+}

@@ -1,0 +1,36 @@
+package cpe305.mdavis60.controller;
+
+import java.util.ArrayList;
+import cpe305.mdavis60.data.*;
+
+public class DayViewer extends ScheduleViewer {
+  private ArrayList<Event> events;
+  private DateTime day;
+
+  public DayViewer(DateTime day) {
+    this.day = day;
+    events = new ArrayList<Event>();
+  }
+  public DateTime getDay()
+  {
+    return day;
+  }
+  public void addActivity(Event a) {
+    events.add(a);
+  }
+
+  public void removeActivity(Event a) {
+    events.remove(a);
+  }
+
+  public boolean equals(DayViewer other)
+  {
+    return other.getDay().equals(this.getDay())
+  }
+  public void printView() {
+    System.out.println(day.getLongDate());
+    for (Event a : events) {
+      System.out.println(a.toString());
+    }
+  }
+}

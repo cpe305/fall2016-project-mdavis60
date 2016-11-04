@@ -1,0 +1,60 @@
+package cpe305.mdavis60.data;
+
+import java.util.Scanner;
+
+import cpe305.mdavis60.controller.ScheduleViewMaker;
+import cpe305.mdavis60.controller.ScheduleViewer;
+import cpe305.mdavis60.controller.WeekViewer;
+
+public class App {
+  static WeekViewer schedule;
+  public static void main(String[] args) {
+    boolean isDone = false;
+    Scanner in = new Scanner(System.in);
+    DateTime testDateTime = new DateTime(4, 11, 2016, 10, 30);
+    Event e1 = new Event();
+    Event e2 = new Event("CPE 305", "Personal Software Development", new DateTime(4, 11, 2016, 10,
+        10), new DateTime(4, 11, 2016, 12, 00));
+    Event e3 = new Event("Register for Class", "Go to PASS", testDateTime, testDateTime);
+    schedule = (WeekViewer)ScheduleViewMaker.createScheduleView("week", in);
+    schedule.add(ScheduleViewMaker.createScheduleView("day", in));
+
+    while (!isDone) {
+      getOption(in);
+    }
+  }
+
+  public static void getOption(Scanner in) {
+    while (in.hasNext()) {
+      String line = in.nextLine();
+      if(line.equals("h")) {
+        printHelp();
+      }
+      else if(line.equalsIgnoreCase("p"))
+        schedule.printView();
+    }
+  }
+  
+  private static void printHelp()
+  {
+    System.out.println("e - add Event");
+    System.out.println("p - print Schedule");
+  }
+  private Event promptEvent(Scanner in)
+  {
+    int day, month, year;
+
+    Event e = new Event();
+    System.out.println("Enter day...");
+    day = in.nextInt();
+    System.out.println("Enter month...");
+    month = in.nextInt();
+    System.out.println("Enter year...");
+    year = in.nextInt();
+    e.setActivityName(newName);
+  }
+  private Event promptEvent(Scanner in)
+  {
+    return ScheduleViewMaker.createScheduleView("event", in);
+  }
+}

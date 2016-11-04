@@ -1,0 +1,18 @@
+package cpe305.mdavis60.controller;
+
+import java.util.Scanner;
+public class ScheduleViewMaker {
+  public static ScheduleViewer createScheduleView(String type, Scanner in)
+  {
+    if(type.toLowerCase().equals("day"))
+    {
+      return new DayViewer();
+    }
+  }
+  
+  private static DateTime getDay()
+  {
+    
+  }
+
+}

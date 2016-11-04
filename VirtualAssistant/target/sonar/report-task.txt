@@ -1,5 +1,0 @@
-projectKey=cpe305.mdavis60:virtualassistant
-serverUrl=http://smartr.cs.hm.edu:9000
-dashboardUrl=http://smartr.cs.hm.edu:9000/dashboard/index/cpe305.mdavis60:virtualassistant
-ceTaskId=AVgmlymt_T_maYcFa5g2
-ceTaskUrl=http://smartr.cs.hm.edu:9000/api/ce/task?id=AVgmlymt_T_maYcFa5g2
