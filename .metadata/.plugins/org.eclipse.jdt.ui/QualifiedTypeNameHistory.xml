@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cpe305.mdavis60.data.Activity"/>
+<fullyQualifiedTypeName name="cpe305.mdavis60.data.DateTime"/>
+<fullyQualifiedTypeName name="cpe305.mdavis60.controller.ScheduleViewer"/>
+<fullyQualifiedTypeName name="cpe305.mdavis60.controller.ScheduleViewMaker"/>
+<fullyQualifiedTypeName name="cpe305.mdavis60.controller.WeekViewer"/>
+</qualifiedTypeNameHistroy>

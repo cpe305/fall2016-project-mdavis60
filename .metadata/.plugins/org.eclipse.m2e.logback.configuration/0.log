@@ -396,3 +396,115 @@
 2016-11-04 09:32:38,979 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2016-11-04 09:32:46,497 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant
 2016-11-04 09:32:46,513 [Worker-55] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-11-04 09:42:32,132 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:42:32,132 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:42:32,138 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:42:32,143 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:42:33,408 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:42:33,409 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:42:33,411 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:42:33,411 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:42:40,042 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:42:40,053 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:42:40,065 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:42:40,065 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:42:46,316 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:42:46,316 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:42:46,316 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:42:46,316 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:43:23,465 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:43:23,475 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:43:23,484 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:43:23,484 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:45:17,844 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:45:17,845 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:45:17,846 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:45:17,846 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:45:21,495 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:45:21,503 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:45:21,512 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:45:21,512 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:45:42,520 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:45:42,520 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:45:42,522 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:45:42,522 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:46:22,543 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:46:22,544 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:46:22,548 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:46:22,548 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:46:33,707 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:46:33,708 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:46:33,709 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:46:33,709 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:46:45,932 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:46:45,940 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:46:45,949 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:46:45,949 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:47:05,595 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:47:05,596 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:47:05,597 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:47:05,597 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:50:10,010 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:50:10,010 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:50:10,016 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:50:10,017 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:50:28,285 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:50:28,285 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:50:28,286 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:50:28,286 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:50:42,609 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:50:42,613 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:50:42,616 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:50:42,616 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:50:49,437 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:50:49,437 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:50:49,439 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:50:49,439 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:51:25,132 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:51:25,132 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:51:25,139 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:51:25,139 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:51:34,743 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:51:34,744 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:51:34,745 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:51:34,746 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:52:12,454 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:52:12,459 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:52:12,465 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:52:12,465 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:52:32,794 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:52:32,795 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:52:32,795 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:52:32,796 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:52:37,386 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:52:37,391 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:52:37,398 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:52:37,399 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:53:33,161 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:53:33,161 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:53:33,162 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:53:33,162 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:53:40,489 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:53:40,493 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:53:40,497 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:53:40,497 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:53:53,422 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:53:53,423 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:53:53,424 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:53:53,424 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:54:51,266 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:54:51,271 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:54:51,276 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:54:51,276 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:55:08,967 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:55:08,967 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:55:08,968 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:55:08,968 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 09:57:04,959 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:57:04,959 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 09:57:04,965 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 09:57:04,965 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources
+2016-11-04 12:20:49,867 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 12:20:50,103 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\main\resources
+2016-11-04 12:20:50,107 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-04 12:20:50,107 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mcd10_000\Desktop\My Work\Homework\SLO_16-17\cpe305\fall2016-project-mdavis60\VirtualAssistant\src\test\resources

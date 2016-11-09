@@ -3,31 +3,31 @@ package cpe305.mdavis60.controller;
 import java.util.ArrayList;
 
 public class WeekViewer extends ScheduleViewer {
-  ArrayList<DayViewer> week;
+  ArrayList<ScheduleViewer> week;
 
   public WeekViewer() {
-    week = new ArrayList<DayViewer>();
+    week = new ArrayList<ScheduleViewer>();
   }
 
-  public void add(DayViewer day) {
-    if (!containsDay(day)) {
+  public void add(ScheduleViewer day) {
+    if (!containsDay((DayViewer) day)) {
       week.add(day);
     }
   }
 
-  public void remove(DayViewer day) {
+  public void remove(ScheduleViewer day) {
     week.remove(day);
   }
 
   public void printView() {
-    for (DayViewer day : week) {
+    for (ScheduleViewer day : week) {
       day.printView();
     }
   }
 
   public boolean containsDay(DayViewer day) {
-    for (DayViewer aDay : week) {
-      if (aDay.equals(day))
+    for (ScheduleViewer aDay : week) {
+      if (((DayViewer) aDay).equals(day))
         return true;
     }
     return false;
